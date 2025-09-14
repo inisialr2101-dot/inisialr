@@ -1,0 +1,472 @@
+
+<!doctype html>
+<html amp lang="id-ID">
+<head>
+    <meta data-auto charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>ʙᴜʟᴀɴ ᴛᴏɢᴇʟ ʙᴏ ᴀᴍᴀɴ ᴛᴇʀᴘᴇʀᴄᴀʏᴀ</title>
+    <meta name="description" content="BULANTOGEL "Terpilih sebagai salah satu platform agen hkpools online 4d dan toto togel 5d prize terbesar di bumi live draw akurat terpercaya.">
+    <meta name="keywords" content="BULANTOGEL, BULANTOGEL,  BULANTOGEL togel, BULANTOGEL alternatif, BULANTOGEL link, BULANTOGEL daftar, BULANTOGEL toto macau, toto macau, data hk" />
+    <meta name="og:image" content="https://fast.image.delivery/gucpqea.jpg" />
+    <link rel="canonical" href="https://bulantogel.netlify.app/" />
+    <meta name="google" content="notranslate">
+    <meta name="page google.com" content="https://bulantogel.netlify.app/">
+    <meta name="page google.co.id" content="https://bulantogel.netlify.app/">
+    <meta name="page google.com" content="https://bulantogel.netlify.app/">
+    <meta name="page google.com" content="https://www.google.com/search?q=bandar+togel">
+    <meta name="robots" content="index, follow">
+    <link rel="preload" href="https://fast.image.delivery/gucpqea.jpg" as="image">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="id_ID">
+    <meta name="googlebot" content="index,follow">
+    <meta name="geo.country" content="id">
+    <meta name="language" content="Id-ID">
+    <meta name="distribution" content="global">
+    <meta name="geo.placename" content="Indonesia">
+    <meta name="author" content="BULANTOGEL">
+    <meta name="publisher" content="BULANTOGEL">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:locale:alternate" content="id_ID">
+    <meta property="og:title" content="BULANTOGEL - Situs BULANTOGEL Agen Togel Hkpools Online Terpercaya">
+    <meta property="og:description" content="BULANTOGEL Terpilih sebagai salah satu platform agen hkpools online 4d dan toto togel 5d prize terbesar di bumi live draw akurat terpercaya.">
+    <meta property="og:url" content="https://bulantogel.netlify.app/">
+    <meta property="og:site_name" content="BULANTOGEL">
+    <meta property="og:image" content="https://fast.image.delivery/gucpqea.jpg">
+    <meta property="og:image:alt" content="BULANTOGEL">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+    <script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <style amp-boilerplate>body {-webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;-moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;-ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;animation: -amp-start 8s steps(1, end) 0s 1 normal both}@-webkit-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@-moz-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@-ms-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@-o-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}</style><noscript><style amp-boilerplate>body {-webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none}</style></noscript>
+<link rel="icon" href="https://bulantogel.netlify.app/favicon.ico" type="image/x-icon">
+<link rel="me" href="https://www.blogger.com/profile/12523066646701809878" />
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+</head>
+    <style amp-custom>
+        
+       body {
+    background: url("https://fast.image.delivery/liihejj.png") no-repeat center center fixed;
+    background-size: cover;
+     }
+    
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+        }
+    
+        a {
+            text-decoration: none;
+        }
+    
+        @media (min-width:992px) {
+            .desktop-only {
+                display: block
+            }
+    
+            .mobile-only {
+                display: none
+            }
+        }
+    
+        .align-items-center {
+            align-items: center;
+        }
+    
+        .justify-content-center {
+            justify-content: center;
+        }
+    
+        .justify-content-between {
+            justify-content: space-between;
+        }
+    
+        .text-center {
+            text-align: center;
+        }
+    
+        .center {
+            text-align: center;
+            justify-content: center;
+        }
+    
+        .gambar {
+            padding: 10px 200px;
+        }
+
+        .logo {
+            padding: 20px 60px;
+        }
+    
+    
+        .btn-head {
+            padding: 10px 0px 10px 0px;
+            background: linear-gradient(to bottom, #0047b1 0%, #0047b1 100%);
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+            color: #ffffff;
+            font-size: 18px;
+            text-align: center;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-family: Convergence, sans-serif
+        }
+        
+        .btn-head-info {
+            padding: 10px 0px 10px 0px;
+            background: linear-gradient(to bottom, #0047b1 0%, #0047b1 100%);
+            border: 1px solid #ffffff;
+            border-bottom: none;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+            color: #ffffff;
+            font-size: 18px;
+            text-align: center;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-family: Convergence, sans-serif
+        }
+
+        .container #table {
+            background: url("") center no-repeat;
+            min-width: 300px;
+            height: 300px;
+            background-size: contain;
+            background-color: #ffffff;
+        }
+
+        table.BULANTOGEL thead th {
+            background: radial-gradient(circle 214px at 49.5% 54.2%, #0047b1 0, #0047b1 96%)
+        }
+
+        table.BULANTOGEL {
+            width: 100%;
+            text-align: left;
+            border-collapse: collapse;
+            margin: 0 20px 0 0
+        }
+
+        table.BULANTOGEL td,
+        table.BULANTOGEL th {
+            border: 1px solid #ffbc02;
+            padding: 10px 5px
+        }
+
+        table.BULANTOGEL tbody td {
+            color: #fffefe
+        }
+
+        table.BULANTOGEL thead {
+            background: #ffd410
+        }
+
+        table.BULANTOGEL thead th {
+            font-size: calc(12px+1vh);
+            font-weight: 700;
+            color: #ffffff;
+            text-align: center
+        }
+
+        .animated-button {
+                background: linear-gradient(to bottom,#e6bd06 25.41%, #000000 100%);
+                display: inline-block;
+                -webkit-transform: translate(0, 0);
+                transform: translate(0, 0);
+                overflow: hidden;
+                color: #ffffff;
+                font-size: 20px;
+                font-weight: 700;
+                min-width: 120px;
+                letter-spacing: 1px;
+                text-align: center;
+                text-transform: uppercase;
+                text-decoration: none;
+                -webkit-box-shadow: inset 0 2px 0 rgba(255, 255, 255, .5), 0 2px 2px rgba(0, 0, 0, .3), 0 2px 4px 1px rgba(0, 0, 0, .2);
+                box-shadow: inset 0 2px 0 rgba(255, 255, 255, .5), 0 2px 2px rgba(248, 248, 248, 0.3), 0 2px 4px 1px rgba(0, 0, 0, .2);
+                border-radius: 8px;
+                font-family: Convergence, sans-serif
+            }
+        
+            .animated-button:hover {
+                background: #0c6ebe;
+                color: #ffffff;
+            }
+        
+            .animated-button::before {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                
+                
+            }
+        
+            .animated-button span {
+                position: absolute
+            }
+        
+            .animated-button span:nth-child(1) {
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 60px;
+                background: -webkit-gradient(linear, right top, left top, from(rgba(74, 194, 202, 0)), to(#ffffff));
+                background: linear-gradient(to left, rgba(0, 200, 213, 0), #ffffff);
+                -webkit-animation: 2s animateTop linear infinite;
+                animation: 2s animateTop linear infinite
+            }
+        
+            @keyframes animateTop {
+                0% {
+                    -webkit-transform: translateX(100%);
+                    transform: translateX(100%)
+                }
+        
+                100% {
+                    -webkit-transform: translateX(-100%);
+                    transform: translateX(-100%)
+                }
+            }
+        
+            .animated-button span:nth-child(2) {
+                top: 0;
+                right: 0;
+                height: 100%;
+                width: 3px;
+                background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 200, 213, 0)), to(#ffffff));
+                background: linear-gradient(to top, rgba(0, 200, 213, 0), #ffffff);
+                -webkit-animation: 2s animateRight linear -1s infinite;
+                animation: 2s animateRight linear -1s infinite
+            }
+        
+            @keyframes animateRight {
+                0% {
+                    -webkit-transform: translateY(100%);
+                    transform: translateY(100%)
+                }
+        
+                100% {
+                    -webkit-transform: translateY(-100%);
+                    transform: translateY(-100%)
+                }
+            }
+        
+            .animated-button span:nth-child(3) {
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 3px;
+                background: -webkit-gradient(linear, left top, right top, from(rgba(0, 200, 213, 0)), to(#ffffff));
+                background: linear-gradient(to right, rgba(0, 200, 213, 0), #ffffff);
+                -webkit-animation: 2s animateBottom linear infinite;
+                animation: 2s animateBottom linear infinite
+            }
+        
+            @keyframes animateBottom {
+                0% {
+                    -webkit-transform: translateX(-100%);
+                    transform: translateX(-100%)
+                }
+        
+                100% {
+                    -webkit-transform: translateX(100%);
+                    transform: translateX(100%)
+                }
+            }
+        
+            .animated-button span:nth-child(4) {
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 3px;
+                background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 200, 213, 0)), to(#ffffff));
+                background: linear-gradient(to bottom, rgba(0, 200, 213, 0), #ffffff);
+                -webkit-animation: 2s animateLeft linear -1s infinite;
+                animation: 2s animateLeft linear -1s infinite
+            }
+        
+            @keyframes animateLeft {
+                0% {
+                    -webkit-transform: translateY(-100%);
+                    transform: translateY(-100%)
+                }
+        
+                100% {
+                    -webkit-transform: translateY(100%);
+                    transform: translateY(100%)
+                }
+            }
+
+        @media screen and (min-width:767px) {
+            .desktop-only {
+                display: block
+            }
+    
+            .mobile-only {
+                display: none
+            }
+    
+            #logo-desktop {
+                margin: 10px 0px 0px 40px;
+            }
+    
+            #btn-head {
+                text-align: right;
+                margin: 0px 40px 0px 0px;
+            }
+    
+            .animated-button {
+                padding: 12px 48px;
+                margin: 8px 10px;
+            }
+        }
+    
+        @media (max-width: 766px) {
+            .desktop-only {
+                display: none
+            }
+    
+            .mobile-only {
+                display: block
+            }
+    
+            .logo {
+                padding: 10px 80px;
+            }
+
+            .animated-button {
+                padding: 12px 20px;
+                margin: 12px 12px;
+                min-width: 120px;
+            }
+
+            .gambar {
+                padding: 0px 10px;
+                margin-top: 10px;
+                border-radius: 20px;
+            }
+        }
+        
+        @keyframes snowball-animation { 
+            0% { 
+                transform: translate(0); 
+                opacity: 1; 
+            } 
+        
+            20% { 
+                transform: translate(4px, 100px); 
+                opacity: 0.8; 
+            } 
+        
+            40% { 
+                transform: translate(-7px, 200px); 
+                opacity: 0.7; 
+            } 
+        
+            60% { 
+                transform: translate(10px, 400px); 
+                opacity: 0.5; 
+            } 
+        
+            80% { 
+                transform: translate(-14px, 700px); 
+                opacity: 0.2; 
+            } 
+        
+            100% { 
+                transform: translate(16px, 900px); 
+                opacity: 0; 
+            } 
+        } 
+        
+        @keyframes flake-motion { 
+            0% { 
+                transform: translate(-2px, 0); 
+                opacity: 1; 
+            } 
+        
+            20% { 
+                transform: translate(-9px, 200px); 
+                opacity: 0.9; 
+            } 
+        
+            40% { 
+                transform: translate(14px, 300px); 
+                opacity: 0.7; 
+            } 
+        
+            60% { 
+                transform: translate(-22px, 400px); 
+                opacity: 0.6; 
+            } 
+        
+            80% { 
+                transform: translate(30px, 600px); 
+                opacity: 0.5; 
+            } 
+        
+            90% { 
+                transform: translate(-40px 800px); 
+                opacity: 0.3; 
+            } 
+        
+            100% { 
+                transform: translate(52px, 1000px); 
+                opacity: 0; 
+            } 
+        }
+    </style>
+
+</head>
+<body>
+
+<div class="container">
+    <div class="center">
+        <div class="logo">
+            <amp-img
+              src="https://blogger.googleusercontent.com/img/a/AVvXsEg_kh09b5P4fqZSRC8cI9IiRq04cFXLZUQWvch1fMSyMiy9IPgfRhRymFyLOoVGpnDoLijeaMr6nwe9RWD7aBmAS9nmEtQZOBKoecoaC_PsfARGndW1rSuja-LzHfOHUWTVjpVaWra9Owcebrork4jbtoEdvjyOE9cl3Au6v7kIILTjzOfxKWMoY_h4qg"
+              width="200px" height="180px" alt="BULANTOGEL" id="logo-BULANTOGEL"></amp-img>        
+            </div>
+        <div id="center btn-head">
+            <a href="https://heylink.me/BULANTOGELtogel/" class="animated-button" target="_blank" rel="nofollow noopener">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>𝐃𝐀𝐅𝐓𝐀𝐑
+
+            </a>
+            <a href="https://t4d.bio/1/" class="animated-button" target="_blank" rel="nofollow noopener">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>𝗠𝗔𝗦𝗨𝗞
+                
+            </a>    
+            
+        </div>
+        <div class="gambar">
+            <amp-img src="https://fast.image.delivery/wfedlcf.png" style="border-radius: 10px;" width="600px" height="600px" layout="responsive"></amp-img>
+        </div>
+        
+        <div class="center">
+            <a href="http://wa.me/6287780974736/" class="animated-button" target="_blank" rel="nofollow noopener">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span> 𝐖𝐀 𝐀𝐃𝐌𝐈𝐍
+
+                <a href="https://chat.whatsapp.com/EVHFiwCkJBm7pUnCFa4ejl/" class="animated-button" target="_blank" rel="nofollow noopener">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>𝐑𝐓𝐏 𝐆𝐀𝐂𝐎𝐑
+
+                </a>
+        </div>
+          <br>
+    <amp-img
+      src="https://blogger.googleusercontent.com/img/a/AVvXsEihSAE5ns6fneU57kFbf78xKJBYTdApsrtvkxmw1Xae-QL3NHgc_4XB5YVDkvQKv4e-mWnqWbr49mvu8hQZ5WxVVryPOFdZ1unnGnLFIGw20WlSENNLvWQ9H5MPhmYQOODN6JBh0lAyw0jEb8zzSe30-V4dzoE6tFvrRbSJGYlcVRecOCQvP2y_UAYl1zs" width="850px" height="150px" alt="BULANTOGEL" id="logo-BULANTOGEL"></amp-img>    </body></html>
