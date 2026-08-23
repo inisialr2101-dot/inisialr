@@ -3,393 +3,336 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Untuk Pani</title>
-
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
-
-<style>
-
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:Poppins,sans-serif;
-}
-
-body{
-
-background:
-linear-gradient(180deg,#ffffff,#f8f8f8,#efefef);
-
-overflow:hidden;
-overflow-y:auto;
-height:100vh;
-
-display:flex;
-justify-content:center;
-align-items:center;
-
-}
-
-.bg{
-
-position:fixed;
-width:100%;
-height:100%;
-overflow:hidden;
-overflow-y:auto;
-z-index:0;
-
-}
-
-.rabbit{
-
-position:absolute;
-font-size:28px;
-animation:fall linear infinite;
-opacity:.25;
-
-}
-
-@keyframes fall{
-
-0%{
-transform:translateY(-120px) rotate(0deg);
-}
-
-100%{
-
-transform:translateY(110vh) rotate(360deg);
-
-}
-
-}
-
-.card{
-
-width:90%;
-max-width:700px;
-
-background:rgba(255,255,255,.70);
-
-backdrop-filter:blur(18px);
-
-border-radius:30px;
-
-padding:45px;
-
-box-shadow:
-0 20px 50px rgba(0,0,0,.08);
-
-position:relative;
-
-z-index:5;
-
-text-align:center;
-
-animation:fade .8s;
-
-}
-
-@keyframes fade{
-
-from{
-opacity:0;
-transform:translateY(30px);
-}
-
-to{
-opacity:1;
-transform:translateY(0);
-}
-
-}
-
-.title{
-
-font-size:45px;
-
-font-family:Playfair Display;
-
-margin-bottom:15px;
-
-color:#555;
-
-}
-
-.text{
-
-font-size:18px;
-
-line-height:34px;
-
-color:#666;
-
-margin-top:20px;
-
-min-height:170px;
-
-}
-
-button{
-
-margin-top:30px;
-
-padding:14px 35px;
-
-border:none;
-
-border-radius:50px;
-
-background:#444;
-
-color:white;
-
-cursor:pointer;
-
-font-size:17px;
-
-transition:.3s;
-
-}
-
-button:hover{
-
-background:#222;
-
-transform:scale(1.05);
-
-}
-
-.page{
-
-display:none;
-
-}
-
-.page.active{
-
-display:block;
-
-animation:fade .8s;
-
-}
-
-.footer{
-
-margin-top:25px;
-
-color:#999;
-
-font-size:14px;
-
-}
-
-</style>
-
-</head>
-
-<body>
-
-<div class="bg" id="bg"></div>
-
-<div class="card">
-
-<div class="page active">
-
-<div class="title">
-Untuk Pani
-</div>
-
-<div class="text">
-Pan ,,,open coba
-Ada sesuatu yang ingin kusampaikan...
-
-Semoga saat kamu membuka halaman ini,
-
-senyummu ikut hadir hari ini.
-
-🐇🐇🐇🐇🐇🐇🐇🐇🐇🐇🐇
-🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳
-
-</div>
-
-<button onclick="next()">
-Buka Surat Pani
-</button>
-
-</div>
-
-<div class="page">
-
-<div class="title">
-ᴘᴀɴᴛᴜɴ🥳🍻🥳
-</div>
-
-<div class="text">
-Pagi cerah ditemani mentari,
-Angin sejuk membawa damai.
-Happy Birthday untuk Pani,
-Semoga semua impianmu tercapai.
-</div>
-
-<button onclick="next()">
-Lanjut pani
-</button>
-
-</div>
-
-<div class="page">
-
-<div class="title">
-Pesan
-</div>
-
-<div class="text">
-
-Kalau suatu hari kamu merasa lelah,
-
-ingatlah bahwa semua perjuanganmu
-
-akan membawa kamu menuju
-
-hal-hal yang indah.
-
-Jangan pernah menyerah.
-
-Pasti kao bisa pannn,,,Semangat💪 
-
-Semangaaat
-
-</div>
-
-<button onclick="next()">
-Lanjut Pani
-</button>
-
-</div>
-
-<div class="page">
-
-<div class="title">
-Doa terbaik untuk kaooo Pani
-</div>
-
-<div class="text">
-
-🎉 Happy Birthday, Pani! 🐰🤍
-
-Selamat ulang tahun, Pani.
-
-Hari ini adalah hari yang istimewa karena menjadi pengingat akan bertambahnya usia dan perjalanan hidupmu. Semoga di usia yang baru ini, Tuhan senantiasa melimpahkan kesehatan, kebahagiaan, umur yang panjang, serta keberkahan dalam setiap langkah yang kamu jalani.
-
-Semoga semua doa yang selama ini kamu panjatkan satu per satu dikabulkan pada waktu yang terbaik. Semoga setiap impian yang kamu perjuangkan diberikan kemudahan untuk terwujud, dan setiap usaha yang kamu lakukan selalu membawa hasil yang membahagiakan.
-
-Terima kasih karena telah menjadi pribadi yang baik, kuat, dan selalu membawa energi positif bagi orang-orang di sekitarmu. Tetaplah menjadi dirimu sendiri, teruslah tersenyum, dan jangan pernah berhenti percaya bahwa masa depanmu dipenuhi banyak hal indah yang sedang menantimu.
-
-Semoga setiap hari dalam hidupmu dipenuhi dengan cinta, kedamaian, tawa, dan orang-orang yang tulus menyayangimu. Saat ada kesulitan, semoga kamu selalu diberikan kekuatan untuk melewatinya. Saat ada kebahagiaan, semoga kamu dapat menikmatinya dengan penuh rasa syukur.
-
-Di hari spesial ini, semoga semua langkahmu selalu diberi petunjuk, rezekimu dilancarkan, kesehatanmu selalu terjaga, dan kebahagiaan selalu menyertaimu ke mana pun kamu pergi.
-
-Sekali lagi,
-
-Happy Birthday, Pani! 🎂🎉
-
-Semoga tahun ini menjadi awal dari perjalanan yang lebih indah, lebih bermakna, dan penuh dengan cerita-cerita baik.
-
-Selamat merayakan hari istimewamu.
-
-Semoga bahagia selalu, hari ini, esok, dan seterusnya. 🤍🐰
-
-</div>
-
-<button onclick="next()">
-𝐊𝐀𝐓𝐀 𝐊𝐀𝐓𝐀 𝐔𝐂𝐀𝐏𝐀𝐍 𝐃𝐀𝐑𝐈 𝐊𝐎𝐊𝐎
-</button>
-
-</div>
-
-<div class="page">
-
-<div class="title">
-Untuk Pani
-</div>
-
-<div class="text">
-
-Semoga Tuhan selalu menjaga
-
-setiap langkahmu.
-
-Semoga harimu dipenuhi
-
-senyum, damai,
-
-dan kebahagiaan.
-
-🐇🐇🐇🐇🐇🐇🐇🐇🐇
-
-
-
-</div>
-
-<button onclick="location.reload()">
-Ulangi
-</button>
-
-<div class="footer">
-
-Dibuat dengan doa terbaik 🤍
-
-</div>
-
-</div>
-
-</div>
-
-<script>
-
-let page=0;
-
-const pages=document.querySelectorAll(".page");
-
-function next(){
-
-pages[page].classList.remove("active");
-
-page++;
-
-if(page>=pages.length){
-
-page=pages.length-1;
-
-}
-
-pages[page].classList.add("active");
-
-}
-
-for(let i=0;i<45;i++){
-
-let r=document.createElement("div");
-
-r.className="rabbit";
-
-r.innerHTML="🐇";
-
-r.style.left=Math.random()*100+"vw";
-
-r.style.animationDuration=(10+Math.random()*8)+"s";
-
-r.style.animationDelay=Math.random()*8+"s";
-
-r.style.fontSize=(18+Math.random()*18)+"px";
-
-document.getElementById("bg").appendChild(r);
-
-}
-
-</script>
-
-</body>
+<title>Untuk Si Bocil Pian</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet"> 
+ 
+<style> 
+ 
+*{ 
+margin:0; 
+padding:0; 
+box-sizing:border-box; 
+font-family:Poppins,sans-serif; 
+} 
+ 
+body{ 
+background:linear-gradient(180deg,#ffffff,#f8f8f8,#efefef); 
+overflow:hidden; 
+overflow-y:auto; 
+height:100vh; 
+display:flex; 
+justify-content:center; 
+align-items:center; 
+} 
+ 
+.bg{ 
+position:fixed; 
+width:100%; 
+height:100%; 
+overflow:hidden; 
+overflow-y:auto; 
+z-index:0; 
+} 
+ 
+.rabbit{ 
+position:absolute; 
+font-size:28px; 
+animation:fall linear infinite; 
+opacity:.25; 
+} 
+ 
+@keyframes fall{ 
+0%{ 
+transform:translateY(-120px) rotate(0deg); 
+} 
+ 
+100%{ 
+transform:translateY(110vh) rotate(360deg); 
+} 
+} 
+ 
+.card{ 
+width:90%; 
+max-width:700px; 
+background:rgba(255,255,255,.70); 
+backdrop-filter:blur(18px); 
+border-radius:30px; 
+padding:45px; 
+box-shadow:0 20px 50px rgba(0,0,0,.08); 
+position:relative; 
+z-index:5; 
+text-align:center; 
+animation:fade .8s; 
+} 
+ 
+@keyframes fade{ 
+from{ 
+opacity:0; 
+transform:translateY(30px); 
+} 
+ 
+to{ 
+opacity:1; 
+transform:translateY(0); 
+} 
+} 
+ 
+.title{ 
+font-size:45px; 
+font-family:Playfair Display; 
+margin-bottom:15px; 
+color:#555; 
+} 
+ 
+.text{ 
+font-size:18px; 
+line-height:34px; 
+color:#666; 
+margin-top:20px; 
+min-height:170px; 
+} 
+ 
+button{ 
+margin-top:30px; 
+padding:14px 35px; 
+border:none; 
+border-radius:50px; 
+background:#444; 
+color:white; 
+cursor:pointer; 
+font-size:17px; 
+transition:.3s; 
+} 
+ 
+button:hover{ 
+background:#222; 
+transform:scale(1.05); 
+} 
+ 
+.page{ 
+display:none; 
+} 
+ 
+.page.active{ 
+display:block; 
+animation:fade .8s; 
+} 
+ 
+.footer{ 
+margin-top:25px; 
+color:#999; 
+font-size:14px; 
+} 
+ 
+</style> 
+ 
+</head> 
+ 
+<body> 
+ 
+<div class="bg" id="bg"></div> 
+ 
+<div class="card"> 
+ 
+<!-- HALAMAN 1 -->
+<div class="page active"> 
+ 
+<div class="title"> 
+Untuk Si Bocil Pian 
+</div> 
+ 
+<div class="text"> 
+Bocil Pian,,, open coba 😆  
+Ada sesuatu yang ingin kusampaikan... 
+ 
+Semoga saat kamu membuka halaman ini, 
+ 
+senyummu ikut hadir hari ini. 
+ 
+🐇🐇🐇🐇🐇🐇🐇🐇🐇🐇🐇 
+🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳🥳 
+ 
+</div> 
+ 
+<button onclick="next()"> 
+Buka Surat Si Bocil Pian 
+</button> 
+ 
+</div> 
+ 
+<!-- HALAMAN 2 -->
+<div class="page"> 
+ 
+<div class="title"> 
+ᴘᴀɴᴛᴜɴ🥳🍻🥳 
+</div> 
+ 
+<div class="text"> 
+Pagi cerah ditemani mentari, 
+Angin sejuk membawa damai. 
+Happy Birthday untuk Si Bocil Pian, 
+Semoga semua impianmu tercapai. 
+</div> 
+ 
+<button onclick="next()"> 
+Lanjut Bocil Pian 
+</button> 
+ 
+</div> 
+ 
+<!-- HALAMAN 3 -->
+<div class="page"> 
+ 
+<div class="title"> 
+Pesan Untuk Si Bocil Pian 
+</div> 
+ 
+<div class="text"> 
+ 
+Kalau suatu hari kamu merasa lelah, 
+ 
+ingatlah bahwa semua perjuanganmu 
+ 
+akan membawa kamu menuju 
+ 
+hal-hal yang indah. 
+ 
+Jangan pernah menyerah. 
+ 
+Pasti kao bisa Bocil Pian,,, Semangat 💪  
+ 
+Semangaaattt Bocilll 😆🔥
+
+</div> 
+ 
+<button onclick="next()"> 
+Lanjut Bocil Pian 
+</button> 
+ 
+</div> 
+ 
+<!-- HALAMAN 4 -->
+<div class="page"> 
+ 
+<div class="title"> 
+Doa terbaik untuk Si Bocil Pian 
+</div> 
+ 
+<div class="text"> 
+ 
+🎉 Happy Birthday, Si Bocil Pian! 🐰🤍 
+ 
+Selamat ulang tahun, Si Bocil Pian. 
+ 
+Hari ini adalah hari yang istimewa karena menjadi pengingat akan bertambahnya usia dan perjalanan hidupmu. Semoga di usia yang baru ini, Tuhan senantiasa melimpahkan kesehatan, kebahagiaan, umur yang panjang, serta keberkahan dalam setiap langkah yang kamu jalani. 
+ 
+Semoga semua doa yang selama ini kamu panjatkan satu per satu dikabulkan pada waktu yang terbaik. Semoga setiap impian yang kamu perjuangkan diberikan kemudahan untuk terwujud, dan setiap usaha yang kamu lakukan selalu membawa hasil yang membahagiakan. 
+ 
+Terima kasih karena telah menjadi pribadi yang baik, kuat, dan selalu membawa energi positif bagi orang-orang di sekitarmu. Tetaplah menjadi dirimu sendiri, teruslah tersenyum, dan jangan pernah berhenti percaya bahwa masa depanmu dipenuhi banyak hal indah yang sedang menantimu. 
+ 
+Semoga setiap hari dalam hidupmu dipenuhi dengan cinta, kedamaian, tawa, dan orang-orang yang tulus menyayangimu. Saat ada kesulitan, semoga kamu selalu diberikan kekuatan untuk melewatinya. Saat ada kebahagiaan, semoga kamu dapat menikmatinya dengan penuh rasa syukur. 
+ 
+Di hari spesial ini, semoga semua langkahmu selalu diberi petunjuk, rezekimu dilancarkan, kesehatanmu selalu terjaga, dan kebahagiaan selalu menyertaimu ke mana pun kamu pergi. 
+ 
+Sekali lagi, 
+ 
+Happy Birthday, Si Bocil Pian! 🎂🎉 
+ 
+Semoga tahun ini menjadi awal dari perjalanan yang lebih indah, lebih bermakna, dan penuh dengan cerita-cerita baik. 
+ 
+Selamat merayakan hari istimewamu. 
+ 
+Semoga bahagia selalu, hari ini, esok, dan seterusnya. 🤍🐰 
+ 
+</div> 
+ 
+<button onclick="next()"> 
+𝐊𝐀𝐓𝐀 𝐊𝐀𝐓𝐀 𝐔𝐂𝐀𝐏𝐀𝐍 𝐃𝐀𝐑𝐈 𝐊𝐎𝐊𝐎 
+</button> 
+ 
+</div> 
+ 
+<!-- HALAMAN 5 -->
+<div class="page"> 
+ 
+<div class="title"> 
+Untuk Si Bocil Pian 
+</div> 
+ 
+<div class="text"> 
+ 
+Semoga Tuhan selalu menjaga 
+ 
+setiap langkahmu. 
+ 
+Semoga harimu dipenuhi 
+ 
+senyum, damai, 
+ 
+dan kebahagiaan. 
+ 
+🐇🐇🐇🐇🐇🐇🐇🐇🐇 
+ 
+</div> 
+ 
+<button onclick="location.reload()"> 
+Ulangi 
+</button> 
+ 
+<div class="footer"> 
+ 
+Dibuat dengan doa terbaik 🤍 
+ 
+</div> 
+ 
+</div> 
+ 
+</div> 
+ 
+<script> 
+ 
+let page=0; 
+ 
+const pages=document.querySelectorAll(".page"); 
+ 
+function next(){ 
+ 
+pages[page].classList.remove("active"); 
+ 
+page++; 
+ 
+if(page>=pages.length){ 
+ 
+page=pages.length-1; 
+ 
+} 
+ 
+pages[page].classList.add("active"); 
+ 
+} 
+ 
+for(let i=0;i<45;i++){ 
+ 
+let r=document.createElement("div"); 
+ 
+r.className="rabbit"; 
+ 
+r.innerHTML="🐇"; 
+ 
+r.style.left=Math.random()*100+"vw"; 
+ 
+r.style.animationDuration=(10+Math.random()*8)+"s"; 
+ 
+r.style.animationDelay=Math.random()*8+"s"; 
+ 
+r.style.fontSize=(18+Math.random()*18)+"px"; 
+ 
+document.getElementById("bg").appendChild(r); 
+ 
+} 
+ 
+</script> 
+ 
+</body> 
 </html>
